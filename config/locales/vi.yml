@@ -1,0 +1,22 @@
+vi:
+  static_pages:
+    home:
+      title: "Trang chủ"
+      welcome: "Chào mừng đến với Ứng dụng bán hàng mẫu"
+      content_info: "Đây là trang chủ của cuốn sách "
+      content_link: "<a href=\"https://www.railstutorial.org/\">Hướng dẫn Ruby on Rails</a>, ứng dụng mẫu."
+      sigup: "Đăng ký ngay!"
+  layouts:
+    header:
+      logo: "ứng dụng bán hàng mẫu"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      login: "Đăng nhập"
+    footer:
+      content_1: "Cuốn <a href=\"https://www.railstutorial.org/\">Hướng dẫn Ruby on Rails </a>"
+      content_2: "được viết bởi <a href=\"http://www.michaelhartl.com/\">Michael Hartl</a>"
+      about: "Giới thiệu"
+      contact: "Liên hệ"
+      news: "Tin tức"
+      en: "Tiếng Anh"
+      vi: "Tiếng Việt"
