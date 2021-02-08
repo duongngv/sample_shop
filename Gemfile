@@ -3,7 +3,7 @@ git_source(:github){|repo| "https://github.com/#{repo}.git"}
 
 gem "bcrypt", "3.1.12"
 gem "bootsnap", ">= 1.1.0", require: false
-gem "carrierwave", "1.2.2"
+gem "carrierwave", "1.3.2"
 gem "jbuilder", "~> 2.5"
 gem "mysql2", ">= 0.4.4", "< 0.6.0"
 gem "puma", "~> 3.11"
